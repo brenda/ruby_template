@@ -1,0 +1,16 @@
+.DS_Store
+
+# Coverage config
+coverage/**/*
+
+# Bundler config.
+/.bundle
+
+# All logfiles and tempfiles
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
+
+# Byebug command history file
+.byebug_history
